@@ -1,6 +1,6 @@
 **ANÁLISE DE DADOS - NORTHWIND TRADERS** 
 
-Dashboard criado no PowerBI, para analisar dados valiosos sobre as métricas do instagram do RobôCIn. Para interagir com o dashboard e explorar os dados através dos filtros aplicados, acesse o arquivo pbix.
+Dashboard criado no PowerBI, para analisar dados financeiros e indicadores de negócio, realizado com a base de dados da empresa fictícia Northwind Traders. Para interagir com o dashboard e explorar os dados através dos filtros aplicados, acesse o arquivo pbix.
 
 **Ilustração estática do dashboard:**
 
